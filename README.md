@@ -1,4 +1,5 @@
 SYED ISHTIAK RAHMAN
+
 DHAKA, BANGLADESH · (+880) 1623-181997 · SRAHMAN191120@BSCSE.UIU.AC.BD · Ishtiakrahman15@gmail.com
 
 Enthusiastic Computer Science graduate with a passion for problem-solving, deep interest in Software Engineering and Machine Learning.
