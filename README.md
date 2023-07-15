@@ -2,9 +2,9 @@ SYED ISHTIAK RAHMAN
 
 DHAKA, BANGLADESH · (+880) 1623-181997
 
-Email - SRAHMAN191120@BSCSE.UIU.AC.BD
+Email - srahman191120@bscse.uiu.ac.bd
 
-Email - Ishtiakrahman15@gmail.com
+Email - ishtiakrahman15@gmail.com
 
 website -  https://www.ishtiak.xyz
 
