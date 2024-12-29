@@ -1,7 +1,8 @@
 SYED ISHTIAK RAHMAN
-BANGLADESH · (+880) 1623-181997
-Email - ishtiakrahman15@gmail.com
-LinkedIn - https://www.linkedin.com/in/syed-ishtiak-rahman
+
+    BANGLADESH · (+880) 1623-181997
+    Email - ishtiakrahman15@gmail.com
+    LinkedIn - https://www.linkedin.com/in/syed-ishtiak-rahman
 
 I'm an enthusiastic  software engineer with knowledge in system design, machine learning and team leadership. I have numerous 150+ LeetCode solutions,  thrive at problem-solving, and keep up with changing technology trends.
 
