@@ -25,22 +25,31 @@ SKILLS
            JavaScript • TypeScript                       
  
  Software Development
+ 
        Django • Flask • Node.js 
+       
           Express.js • React.js • Vue.js
 
 CMS Development
+
        WordPress • WooCommerce 
+       
           E-Commerce • JetPlugins
 
 Databases
+
        RDBMS • SQL • Prisma ORM • MongoDB
 
 Data Science
+
      NumPy • Pandas •Tensorflow 
+     
          Scikit-learn • Power BI • EDA
 
 Others Tools
+
       Git • Docker • Nginx • AWS
+      
          CI/CD • LaTeX • Figma   
 
 
