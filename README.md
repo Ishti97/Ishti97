@@ -7,14 +7,21 @@ I'm an enthusiastic  software engineer with knowledge in system design, machine 
 
 SKILLS HIGHLIGHTS
 
-1. Project management, SDLC, system design, and leadership skills
-2. Comprehension software architectures (Microservice, n-Tier, MVT, MVC)
-3. Full stack expertise in Express.js, Django, RESTful Api, React.js
-4. Solid knowledge of middleware, hooks, redux, context API and other state management tools
-5. Experienced with Machine Learning frameworks and libraries, including Scikit-learn, TensorFlow
-6. Proficient in Data Analysis and EDA using tools like NumPy, Pandas, and MS Excel
-7. Skilled in data visualization and reporting using Power BI
-8. Proficiency in managing both SQL and NoSQL databases
+    1. Project management, SDLC, system design, and leadership skills
+    
+    2. Comprehension software architectures (Microservice, n-Tier, MVT, MVC)
+    
+    3. Full stack expertise in Express.js, Django, RESTful Api, React.js
+    
+    4. Solid knowledge of middleware, hooks, redux, context API and other state management tools
+    
+    5. Experienced with Machine Learning frameworks and libraries, including Scikit-learn, TensorFlow
+    
+    6. Proficient in Data Analysis and EDA using tools like NumPy, Pandas, and MS Excel
+    
+    7. Skilled in data visualization and reporting using Power BI
+    
+    8. Proficiency in managing both SQL and NoSQL databases
 
 SKILLS
 
