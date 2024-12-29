@@ -1,10 +1,8 @@
-NAME : SYED ISHTIAK RAHMAN
-
-COUNTRY : BANGLADESH 
+SYED ISHTIAK RAHMAN (BANGLADESH) 
      
        · (+880) 1623-181997
        · ishtiakrahman15@gmail.com
-       · https://www.linkedin.com/in/syed-ishtiak-rahman
+       · linkedin.com/in/syed-ishtiak-rahman
 
 I'm an enthusiastic  Software Engineer with knowledge in system design, machine learning and team leadership. I have numerous LeetCode solutions, thrive at problem-solving, and keep up with changing technology trends.
 
