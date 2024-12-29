@@ -1,5 +1,5 @@
-    NAME : SYED ISHTIAK RAHMAN
-    COUNTRY : BANGLADESH 
+NAME : SYED ISHTIAK RAHMAN
+COUNTRY : BANGLADESH 
      
        · (+880) 1623-181997
        · ishtiakrahman15@gmail.com
