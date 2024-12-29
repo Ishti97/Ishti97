@@ -1,68 +1,69 @@
+SYED ISHTIAK RAHMAN (BANGLADESH) 
+     
+       · (+880) 1623-181997
+       · ishtiakrahman15@gmail.com
+       · linkedin.com/in/syed-ishtiak-rahman
+
+I'm an enthusiastic  Software Engineer with knowledge in system design, machine learning and team leadership. I have numerous LeetCode solutions, thrive at problem-solving, and keep up with changing technology trends.
+
+SKILLS HIGHLIGHTS
+
+    1. Project management, SDLC, system design, and leadership skills
+    
+    2. Comprehension software architectures (Microservice, n-Tier, MVT, MVC)
+    
+    3. Full stack expertise in Express.js, Django, RESTful Api, React.js
+    
+    4. Solid knowledge of middleware, hooks, redux, context API and other state management tools
+    
+    5. Experienced with Machine Learning frameworks and libraries, including Scikit-learn, TensorFlow
+    
+    6. Proficient in Data Analysis and EDA using tools like NumPy, Pandas, and MS Excel
+    
+    7. Skilled in data visualization and reporting using Power BI
+    
+    8. Proficiency in managing both SQL and NoSQL databases
+
+SKILLS
+
+ Programming Languages
+ 
+        C++ • Java • Python • PHP
+ 
+           JavaScript • TypeScript                       
+ 
+ Software Development
+ 
+       Django • Flask • Node.js 
+       
+          Express.js • React.js • Vue.js
+
+CMS Development
+
+       WordPress • WooCommerce 
+       
+          E-Commerce • JetPlugins
+
+Databases
+
+       RDBMS • SQL • Prisma ORM • MongoDB
+
+Data Science
+
+     NumPy • Pandas •Tensorflow 
+     
+         Scikit-learn • Power BI • EDA
+
+Others Tools
+
+      Git • Docker • Nginx • AWS
+      
+         CI/CD • LaTeX • Figma   
 
 
-```markdown
-# 👨‍💻 Syed Ishtiak Rahman  
-🌏 **Location:** Bangladesh  
-📞 **Phone:** (+880) 1623-181997  
-📧 **Email:** [ishtiakrahman15@gmail.com](mailto:ishtiakrahman15@gmail.com)  
-🔗 **LinkedIn:** [linkedin.com/in/syed-ishtiak-rahman](https://linkedin.com/in/syed-ishtiak-rahman)  
 
----
 
-## 🚀 About Me  
-I am an enthusiastic **Software Engineer** with expertise in **System Design**, **Machine Learning**, and **Team Leadership**. I thrive on problem-solving, actively contribute to platforms like LeetCode, and stay updated with cutting-edge technologies to ensure innovative solutions.  
-
----
-
-## 🛠️ Skills  
-
-### 🔑 Core Competencies  
-- **Project Management:** Expertise in SDLC, System Design, and Leadership.  
-- **Architectures:** Microservices, n-Tier, MVT, MVC.  
-- **Full-Stack Development:** Proficient in Express.js, Django, RESTful APIs, React.js.  
-- **State Management:** Hooks, Redux, Context API, Middleware.  
-- **Machine Learning:** Scikit-learn, TensorFlow, with a focus on real-world applications.  
-- **Data Analysis:** EDA, visualization using Power BI, NumPy, Pandas, MS Excel.  
-- **Databases:** Skilled in SQL and NoSQL, including MongoDB and Prisma ORM.  
-
----
-
-### 💻 Programming Languages  
-- **C++** • **Java** • **Python** • **PHP**  
-- **JavaScript** • **TypeScript**  
-
-### 🏗️ Frameworks & Libraries  
-- **Backend:** Django • Flask • Node.js • Express.js  
-- **Frontend:** React.js • Vue.js  
-
-### 📦 CMS Development  
-- **WordPress** • **WooCommerce** • **JetPlugins**  
-
-### 📊 Data Science Tools  
-- **NumPy** • **Pandas** • **TensorFlow**  
-- **Scikit-learn** • **Power BI** • **EDA**  
-
-### 🔧 Tools & Platforms  
-- **Version Control:** Git  
-- **Deployment:** Docker • Nginx • AWS  
-- **CI/CD:** GitHub Actions  
-- **Design:** Figma  
-- **Documentation:** LaTeX  
-
----
-
-## 📈 Projects  
-🔗 Check out my repositories for insights into the projects I've worked on, ranging from **Machine Learning models** to **Full-Stack Applications**.  
-
----
-
-## 🌟 Fun Facts  
-- I enjoy solving complex problems on LeetCode.  
-- Passionate about exploring new technologies and applying them in real-world scenarios.  
-- Always ready to learn and collaborate!  
-
----
-
-*Let’s connect and create something amazing!* 😊  
-```
-
+<!---
+Ishti97/Ishti97 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
